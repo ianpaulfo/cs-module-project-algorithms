@@ -2,7 +2,7 @@
 Input: a List of integers
 Returns: a List of integers
 '''
-#2 - Module 3: A First-Pass Solution
+# First-Pass Solution
 # traverse the given array 'arr' from left to right
 # while traversing, maintain count of non-zero elements in array
 # let the count be 'count' 

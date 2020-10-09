@@ -2,7 +2,7 @@
 Input: a List of integers where every int except one shows up twice
 Returns: an integer
 '''
-# Module 3: A First-Pass Solution
+# First-Pass Solution
 # check every element if it appears once or not. 
 # Once an element with a single occurrence is found, return it. Time complexity of this solution is O(n^2).
 

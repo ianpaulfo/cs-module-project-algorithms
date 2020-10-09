@@ -2,7 +2,7 @@
 Input: a List of integers
 Returns: a List of integers
 '''
-#3 - Module 3: A First-Pass Solution
+# First-Pass Solution
 # Naive solution: Create 2 extra space, i.e. 2 extra arrays to store the product of all the array elements from start, up to that index and another array to store the product of all the array elements from the end of the array to that index 
 # To get the product excluding that index, multiply the prefix product up to index i-1 with the suffix product up to index i+1 
 # Solve it without division operator in O(N) time
