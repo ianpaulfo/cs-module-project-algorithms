@@ -2,8 +2,8 @@
 Input: an integer
 Returns: an integer
 '''
-    #5 - Module 3: A First-Pass Solution
-    # Your code here	
+#5 - Module 3: A First-Pass Solution
+# Your code here	
 # Empty the Most Jars Algo: the monster reduces the number of distinct jars by as many as he can for each move
 # Binary Algo: the monster takes 2^k cookies from all jars that contain at least 2^k cookies for k as large as possible
 
